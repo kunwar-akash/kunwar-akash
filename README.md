@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @kunwar-akash  
+- 👀 I’m interested in software engineering, scalable tech solutions, AI, and content creation (gaming, lifestyle, vlogs).  
+- 🌱 I’m currently learning advanced manual testing, LLMs (Large Language Models), and diving deeper into automation with Selenium & Cypress.  
+- 💞️ I’m looking to collaborate on full-stack projects, testing frameworks, and creative video content (YouTube & Reels).  
+- 📫 How to reach me: [akashkunwaronline@gmail.com](mailto:akashkunwaronline@gmail.com) | [LinkedIn](https://www.linkedin.com/in/akashkunwaronline/)) | [YouTube](#link-to-your-channel)  
+- 😄 Pronouns: He/Him  
+- ⚡ Fun fact: I turn code into scalable products by day and stories into engaging content by night—because why choose one passion when you can have both?
